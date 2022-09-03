@@ -1,7 +1,7 @@
 <h1 align="start">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/6352cb28262707.5637231a2a4a7.gif"
-          width="350"
-          height="300"
+          width="330"
+          height="280"
           align="right"
              /> 
 <h4 align="start">I'm Georgi and currently improving my Java and Spring skills. I am looking to start my career as a Junior Java Dev.</h4>
