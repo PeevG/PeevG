@@ -22,9 +22,9 @@
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016title" alt="Intelij" width="40" height="40"/> </a>
 </p>
-<p>
-    <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=peevg&" alt="peevg" height="155" />
-    <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=peevg&show_icons=true&locale=en&layout=compact" alt="peevg" height="155" />
+<p align="bottom">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=peevg&" alt="peevg" height="155" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=peevg&show_icons=true&locale=en&layout=compact" alt="peevg" height="155" />
 </p>
     
    
