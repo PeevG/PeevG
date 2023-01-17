@@ -4,7 +4,7 @@
           height="280"
           align="right"
              /> 
-<h4 align="start">I'm Georgi and currently improving my programming skills mostly with Java and Spring. I am looking to start my career as a Junior Java Dev.</h4>
+<h4 align="start">I'm Georgi and currently improving my Java skills.</h4>
 
  
 - Here you can find the latest project I'm working on:
