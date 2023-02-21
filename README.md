@@ -7,8 +7,6 @@
 <h4 align="start">I'm Georgi and currently improving my Java skills.</h4>
 
  
-- Here you can find the latest project I'm working on:
- [EmployeeManagementSystem](https://github.com/PeevG/Employee-Management-System)
    
 <h3 align="left">Connect me:</h3>
 <p align="left">
