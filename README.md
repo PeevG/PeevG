@@ -7,6 +7,9 @@
 <h4 align="start">I'm Georgi and currently improving my Java skills.</h4>
 
  
+ 
+ 
+ 
    
 <h3 align="left">Connect me:</h3>
 <p align="left">
