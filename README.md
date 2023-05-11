@@ -1,11 +1,11 @@
-<h1 align="start">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="start">Hey there, I'm Georgi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/6352cb28262707.5637231a2a4a7.gif"
           width="330"
           height="280"
           align="right"
              /> 
-<h4 align="start">I'm Georgi and currently improving my Java skills.</h4>
-
+<h4 align="start">- My current focus is on enhancing my Java proficiency and developing a deep understanding of the various technologies within the Java ecosystem.</h4>
+<h4 align="start">- Recently collaborated on <a href="https://github.com/PeevG/Social-network-team-project">Society</a> - a social network application, where I had the opportunity to apply my skills and face real challenges.</h4>
  
  
  
