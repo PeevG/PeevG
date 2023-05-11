@@ -5,7 +5,7 @@
           align="right"
              /> 
 <h4 align="start">- My current focus is on enhancing my Java proficiency and developing a deep understanding of the various technologies within the Java ecosystem.</h4>
-<h4 align="start">- Recently collaborated on <a href="https://github.com/PeevG/Social-network-team-project">Society</a> - a social network application, where I had the opportunity to apply my skills and face real challenges.</h4>
+<h4 align="start">- Recently collaborated on <a href="https://github.com/Society-Project/Society">Society</a> - a social network application, where I had the opportunity to apply my skills and face real challenges.</h4>
  
  
  
