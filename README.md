@@ -6,7 +6,7 @@
              /> 
              
 <h4 align="start">My current focus is on enhancing my Java proficiency and developing a deep understanding of the various technologies within the Java ecosystem</h4>
-<h4 align="start">- <a href="https://github.com/PeevG/OnlineFoodDeliveryApp/tree/main/server">Yummy Delivery</a> is my most recent personal project where I've been expand my skill set</h4>
+<h4 align="start">- Just wrapped up my latest Java project! 🚀 Building <a href="https://github.com/PeevG/OnlineFoodDeliveryApp/tree/main/server">Yummy Delivery</a> has been a rewarding journey of learning and growth. </h4>
  <h4 align="start">- Contributed to the development of <a href="https://github.com/Society-Project/Society">Society</a> as part of the backend team</h4>
  
  
